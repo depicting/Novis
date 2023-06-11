@@ -64,7 +64,7 @@
 - Make sure you have all the requirements installed!!
 
 #### Steps:
-1. Run builder.exe
+1. Run Novis Builder.exe
 2. Press enter to continue into the software.
 3. Choose option one to build an exe
 
