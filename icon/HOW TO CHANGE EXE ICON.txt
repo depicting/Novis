@@ -1,0 +1,10 @@
+DOWNLOAD RESOURCEHACKER FROM HERE ---> http://www.angusj.com/resourcehacker/#download (DOWNLOAD AT BOTTOM OF PAGE)
+
+1. Find the EXE file you want to change.
+2. Right-click on the file, and from the drop-down menu, select “Open using Resource Hacker.” It’s going to be there on the menu after you download it.
+3. From the pop-up window, select the “Replace Icon” option.
+4. On the next window, select “Open file with new icon.”
+5. Browse through the icons you have downloaded, or you already have on your computer.
+6. When you click on an icon, it will show a preview of it. When you’re sure about your choice, click on “Replace” at the bottom of the window.
+7. In the main Resource Hacker window, you’ll be able to adjust the size of the icon too.
+8. Exit the Resource Hacker.
