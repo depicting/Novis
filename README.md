@@ -13,6 +13,7 @@
 <h3 align=center>Novis Features</h3>
 
 ```diff
+- PLEASE READ THE WHOLE README.MD
 + Always maintained and frequent updates.
 + Novis Premium with more features!
 
