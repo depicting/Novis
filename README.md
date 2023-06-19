@@ -46,6 +46,7 @@
     - [Microsoft Store version of Python **WILL NOT WORK**]
 
 #### Preparation:
+- Turn Real Time Protection off in Anti-Virus Settings
 - Have a Discord Server ready to go 
 - Have a webhook inside of the channel you want it to send the hits to 
 - Have Python Installed
