@@ -48,16 +48,12 @@
 > # How to use:
 #### Requirements:
 - **Python**:
-    • Need Python 3.10.9+ (or up)
-    • You can install python via the install_python file inside of the requirements folder.
-    • [Microsoft Store version of Python **WILL NOT WORK**]
+    - Need Python 3.10.9+ (or up)
+    - You can install python via the install_python file inside of the requirements folder.
+    - [Microsoft Store version of Python **WILL NOT WORK**]
 
 #### Preparation:
- Have a Discord Server ready to go
- Have a webhook inside of the channel you want it to send the hits to
- Have Python Installed
- Know what you are doing!!
- Follow ALL THE STEPS BELOW 👇
+Have your Discord Server setup with a webhook, make sure you have all the requirements
 
 #### Steps:
 1. Make sure you have Python 3.10.9+ installed
