@@ -53,7 +53,11 @@
     - [Microsoft Store version of Python **WILL NOT WORK**]
 
 #### Preparation:
-Have your Discord Server setup with a webhook, make sure you have all the requirements
+- Have a Discord Server ready to go 
+- Have a webhook inside of the channel you want it to send the hits to 
+- Have Python Installed
+- Use Novis Responsibly
+- Follow ALL THE STEPS BELOW 👇
 
 #### Steps:
 1. Make sure you have Python 3.10.9+ installed
