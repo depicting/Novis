@@ -14,13 +14,13 @@
 
 ```diff
 + Always maintained and frequent updates.
-+ Designed to be very noob friendly with intuitive features:
++ Novis Premium with more features!
+
++- Created with small size and anonymity in mind! 
++- Designed to be very noob friendly with intuitive features:
     +- User friendly interface.
     +- Uses discords webhook system so it's easy to use.
     +- Self explanatory features.
-  
-+ Supports FUD exe (premium only, virus undetected)
-+ Created with small size and anonymity in mind! 
  
 + File adds itself to startup
 + Discord Injection [sends new passwd when changed + new token]
