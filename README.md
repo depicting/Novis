@@ -71,7 +71,7 @@
 
 #### Important:
 - **Terms**:
-- I do not condone the misuse of my software, I am publishing this software for entertainment purposes and development purposes only.
+- I do not condone the misuse of my software, I am publishing this software for educational purposes only.
 - Any misuse of my software will fall under the responsibility of the user of the software.
 - I am not responsible for any improper use of my software.
 </br>
