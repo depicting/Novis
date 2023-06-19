@@ -54,11 +54,10 @@
 
 #### Preparation:
  Have a Discord Server ready to go
- 
-• Have a webhook inside of the channel you want it to send the hits to
-• Have Python Installed
-• Know what you are doing!!
-• Follow ALL THE STEPS BELOW 👇
+ Have a webhook inside of the channel you want it to send the hits to
+ Have Python Installed
+ Know what you are doing!!
+ Follow ALL THE STEPS BELOW 👇
 
 #### Steps:
 1. Make sure you have Python 3.10.9+ installed
