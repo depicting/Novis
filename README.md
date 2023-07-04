@@ -11,6 +11,8 @@
 
 > # Features:
 <h3 align=center>Novis Features</h3>
+<h3 align=center>Purchase Premium 👇👇</h3>
+<h3 align=center>https://novis.rip</h3>
 
 ```diff
 - PLEASE READ THE WHOLE README.MD
