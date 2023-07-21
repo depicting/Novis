@@ -53,7 +53,8 @@
 #### Preparation:
 - First paste your webhook in `"WEBHOOK HERE"` inside of Novis.py
 - If you have an error and can't open novis try opening cmd in the directory and doing `"pip install -r requirements.txt"`
-- Use an alt/main to create a new server, and use that server to create the webhook.
+- You can optionally add an icon (.ico) to the exe if you'd like.
+- Once you have built the exe, it will be located in `dist`.
 - Use Novis Responsibly
 
 #### Terms:
