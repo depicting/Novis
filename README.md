@@ -1,6 +1,7 @@
 ---
 
 <h3 align=center><b>Novis Premium, the future of token loggers.</b></h3>
+<h3 align=center><b>Currenty being updated please wait for the new version to be posted.</b></h3>
 <h6 align=center>"Please read the entire README before using Novis Logger."</h4>
 
 ---
